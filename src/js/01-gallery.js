@@ -1,13 +1,10 @@
 // Add imports above this line
 import { galleryItems } from './gallery-items';
 
-// const SimpleLightbox = require('simplelightbox');
 import SimpleLightbox from 'simplelightbox';
 import 'simplelightbox/dist/simple-lightbox.min.css';
 
 // Change code below this line
-
-console.log(SimpleLightbox);
 
 const ulGallery = document.querySelector('.gallery');
 
